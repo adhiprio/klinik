@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "klinik"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "klinik"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "klinik"
+        }
+    }
+}
